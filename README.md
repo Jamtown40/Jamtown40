@@ -1,4 +1,4 @@
-Ray Manzi
+RAY MANZI
 ==========================
 
 Aspiring Red Teamer & Penetration Tester | Student
