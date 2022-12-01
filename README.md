@@ -46,11 +46,15 @@ src="https://img.shields.io/github/followers/Jamtown40?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jamtown40"><img src="https://github-readme-stats.vercel.app/api?username=Jamtown40&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Jamtown40's GitHub stats" /></a>
+<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jamtown40"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamtown40&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Jamtown40"><img src="https://github-readme-stats.vercel.app/api?username=Jamtown40&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Jamtown40's GitHub stats" /></a>
 
-<a href="http://www.github.com/Jamtown40"><img src="https://activity-graph.herokuapp.com/graph?username=Jamtown40&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Jamtown40"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamtown40&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Jamtown40"><img src="https://activity-graph.herokuapp.com/graph?username=Jamtown40&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Jamtown40" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamtown40&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
