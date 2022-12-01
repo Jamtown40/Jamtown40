@@ -2,8 +2,8 @@ Ray Manzi
 ==========================
 
 Aspiring Red Teamer & Penetration Tester
-PenTest+ | Security+ | CNVP | ITF+
 -----------------------------------------------
+PenTest+ | Security+ | CNVP | ITF+
 
 Highly motivated student and aspiring red teamer. I am studying Web App and network penetration testing. Manzi is currently enrolled at Springfield Technical Community College (STCC) where he studies CITS and Cybersecurity. Manzi is a sharp and avid learner who supplements his studies with hands-on platforms such as: TryHackMe, HackTheBox, PortSwigger, HackerOne and PentesterLab.
 
