@@ -19,10 +19,9 @@ In-Progress:
 -----------------------------------------------
 WAHH | CISSP | OSCP | CEH
 
-* 🌍  I'm based in Massachusetts.
-* ✉️  You can contact me at [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
-* 🧠  I'm studying Red Teaming and WebApp PenTesting.
-* ⚡  I run ultra marathons, read sci-fi and train bjj.
+* 🌍  Based out of: Massachusetts.
+* ✉️  Email: [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
+* 🧠  Studying: Red Teaming, WebApp PenTesting, Cybersecurity.
 
 <a href="https://www.github.com/Jamtown40" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jamtown40?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
