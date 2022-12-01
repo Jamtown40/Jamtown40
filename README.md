@@ -21,7 +21,7 @@ WAHH | CISSP | OSCP | CEH
 
 * 🌍  Based out of: Massachusetts.
 * ✉️  Email: [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
-* 🧠  Studying: Red Teaming, WebApp PenTesting, Cybersecurity.
+* 🧠  Studying: Red Teaming, WebApp PenTesting & Cybersecurity.
 
 <a href="https://www.github.com/Jamtown40" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jamtown40?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
