@@ -3,9 +3,14 @@ Ray Manzi
 
 Aspiring Red Teamer & Penetration Tester
 -----------------------------------------------
-PenTest+ | Security+ | CNVP | ITF+
+Welcome to Ray Manzi's GitHub!
 
-Highly motivated student and aspiring red teamer. I am studying Web App and network penetration testing. Manzi is currently enrolled at Springfield Technical Community College (STCC) where he studies CITS and Cybersecurity. Manzi is a sharp and avid learner who supplements his studies with hands-on platforms such as: TryHackMe, HackTheBox, PortSwigger, HackerOne and PentesterLab.
+Raymond P. Manzi is an up-and-coming penetration tester and soon to be red teamer studying Web Application & Network Penetration Testing. He is currently enrolled at Springfield Technical Community College (STCC) where he studies CITS and Cybersecurity. Manzi is a sharp and avid learner who supplements his studies with hands-on platforms such as: HackTheBox, TryHackMe, PortSwigger, HackerOne and PentesterLab.
+
+He will soon be competing in Capture The Flag (CTF) competitions and plans to place #1. He is a member of STCC's Computer Club and currently holds four industry-recognized certifications. Manzi deeply enjoys helping others and spends his free-time training BJJ, reading, running and watching sci-fi movies.
+
+Actively working on the following:
+WAHH | CISSP | OSCP | CEH
 
 * 🌍  I'm based in Massachusetts
 * ✉️  You can contact me at [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
