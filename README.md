@@ -7,7 +7,7 @@ Welcome to Ray Manzi's GitHub!
 
 Ray Manzi is an up-and-coming penetration tester and soon to be red teamer studying Web Application & Network Penetration Testing. He is currently enrolled at Springfield Technical Community College where he studies CITS and Cybersecurity. Manzi is a sharp and avid learner who supplements his studies with hands-on platforms such as: HackTheBox, TryHackMe, PortSwigger, HackerOne and PentesterLab.
 
-Manzi is on track to be transfer to The College of Our Lady of the Elms in the spring of 2023. He is a member of STCC's Computer Club and currently holds four industry-recognized certifications. Manzi deeply enjoys helping others and spends his free-time training BJJ, writing music, reading, ultra running and watching movies.
+Manzi is on track to transfer to The College of Our Lady of the Elms in the spring of 2023. He is a member of STCC's Computer Club and currently holds four industry-recognized certifications. Manzi deeply enjoys helping others and spends his free-time training BJJ, writing music, reading, ultra running and watching movies.
 
 Certs:
 PenTest+ | Security+ | CNVP | ITF+
