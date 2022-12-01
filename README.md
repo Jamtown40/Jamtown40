@@ -1,4 +1,4 @@
-Hi 👋 My name is Ray Manzi
+Ray Manzi
 ==========================
 
 Red Teamer | PenTest+ | Security+ | CNVP | ITF+
