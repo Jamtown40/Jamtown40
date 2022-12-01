@@ -10,9 +10,11 @@ Ray Manzi is an up-and-coming penetration tester and soon to be red teamer study
 Manzi is on track to transfer to The College of Our Lady of the Elms in the spring of 2023. He is a member of STCC's Computer Club and currently holds four industry-recognized certifications. Manzi deeply enjoys helping others and spends his free-time training BJJ, writing music, reading, ultra running and watching movies.
 
 Certs:
+----------------------------------------------
 PenTest+ | Security+ | CNVP | ITF+
 
 Actively working on the following:
+----------------------------------------------
 WAHH | CISSP | OSCP | CEH
 
 * 🌍  I'm based in Massachusetts.
