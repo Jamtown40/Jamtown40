@@ -5,18 +5,17 @@ Aspiring Red Teamer & Penetration Tester | Student
 -----------------------------------------------
 Welcome to Ray Manzi's GitHub!
 
+* 🌍  I'm based in Massachusetts.
+* ✉️  You can contact me at [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
+* 🧠  I'm studying Red Teaming and WebApp PenTesting.
+* ⚡  I run ultra marathons, read sci-fi and train bjj.
+
 Raymond P. Manzi is an up-and-coming penetration tester and soon to be red teamer studying Web Application & Network Penetration Testing. He is currently enrolled at Springfield Technical Community College (STCC) where he studies CITS and Cybersecurity. Manzi is a sharp and avid learner who supplements his studies with hands-on platforms such as: HackTheBox, TryHackMe, PortSwigger, HackerOne and PentesterLab.
 
 He will soon be competing in Capture The Flag (CTF) competitions and plans to place #1. He is a member of STCC's Computer Club and currently holds four industry-recognized certifications. Manzi deeply enjoys helping others and spends his free-time training BJJ, reading, running and watching sci-fi movies.
 
 Actively working on the following:
 WAHH | CISSP | OSCP | CEH
-
-* 🌍  I'm based in Massachusetts
-* ✉️  You can contact me at [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
-* 🧠  I'm learning Red Teaming and Web App PenTesting
-* 🤝  I'm open to collaborating on epic projects!
-* ⚡  I run ultra marathons, read sci-fi and practice bjj.
 
 <a href="https://www.github.com/Jamtown40" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jamtown40?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
