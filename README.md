@@ -19,7 +19,7 @@ In-Progress:
 -----------------------------------------------
 WAHH | CISSP | OSCP | CEH
 
-* 🌍  Based out of: Massachusetts.
+* 🌍  Based out of: MA.
 * ✉️  Email: [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
 * 🧠  Studying: Red Teaming, WebApp PenTesting & Cybersecurity.
 
