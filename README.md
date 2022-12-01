@@ -1,7 +1,7 @@
 Ray Manzi
 ==========================
 
-Aspiring Red Teamer/Penetration Tester | Student
+Aspiring Red Teamer & Penetration Tester | Student
 -----------------------------------------------
 Welcome to Ray Manzi's GitHub!
 
