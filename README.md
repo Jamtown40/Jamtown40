@@ -18,7 +18,7 @@ PenTest+ | Security+ | CNVP | ITF+
 In-Progress:
 -----------------------------------------------
 WAHH | CISSP | OSCP | CEH
-
+-----------------------------------------------
 * 🌍  I'm based in Massachusetts.
 * ✉️  You can contact me at [raymondpaulmanzi@gmail.com](mailto:raymondpaulmanzi@gmail.com)
 * 🧠  I'm studying Red Teaming and WebApp PenTesting.
